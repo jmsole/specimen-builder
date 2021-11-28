@@ -7,7 +7,7 @@
 }
 
 .interactive-controls-text {
-	font-size: calc(var(--font-size) * 1px);
+	font-size: calc(var(--font-size) * 0.9px);
 	line-height: var(--line-height);
 }
 

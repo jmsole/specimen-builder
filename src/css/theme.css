@@ -227,6 +227,11 @@ button {
 	font-variation-settings: "wght" 900;
 }
 
+/* Lining numbers */
+.linum {
+	font-variant-numeric: lining-nums;
+}
+
 /* Line height */
 .lh08 {
 	line-height: 0.8;
@@ -256,6 +261,7 @@ button {
 }
 .align-justify {
 	text-align: justify;
+	hyphens: auto;
 }
 .align-left {
 	text-align: left;

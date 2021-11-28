@@ -82,7 +82,8 @@
 		}
 	},
 	"dependencies": {
-		"fontfaceobserver": "^2.1.0"
+		"fontfaceobserver": "^2.1.0",
+		"yarn": "^1.22.17"
 	},
 	"engines": {
 		"node": ">=12"
